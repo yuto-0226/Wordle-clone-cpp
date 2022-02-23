@@ -1,2 +1,5 @@
-./.vscode/
+.vscode/
 *.exe
+
+wordle_sol.cpp
+read_data.cpp
